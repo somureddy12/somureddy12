@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://leetcard.jacoblin.cool/somu128912?ext=heatmap)
-![](https://leetcard.jacoblin.cool/somu128912?ext=contest)
